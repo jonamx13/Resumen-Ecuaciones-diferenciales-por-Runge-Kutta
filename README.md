@@ -87,7 +87,8 @@ El gráfico generado muestra la **trayectoria aproximada** de la solución`y(x)`
 
 Este gráfico ayuda a interpretar visualmente el comportamiento de la función aproximada.
 
-![image]Captura_img1.png
+<img width="558" height="418" alt="Captura_img1" src="https://github.com/user-attachments/assets/6c0325e5-c533-4680-b998-a63e2df4daec" />
+
 
 ---
 ## 📌 Notas
